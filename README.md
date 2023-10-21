@@ -1,6 +1,6 @@
 ### 🤞 Nice way to meet me
 <p>
-  <a href="mailto:jgpk226@gmail.com" target="_blank"><img src="https://img.shields.io/badge/jgpk226@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="mailto:jgpk226@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jgpk226@gmail.com"/></a>
   <a href="mailto:wooshim1@naver.com" target="_blank"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:wooshim1@naver.com"/></a>
   <a href="https://www.instagram.com/kkkkk_02x26/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/kkkkk_02x26/"/></a>&nbsp
 </p>
