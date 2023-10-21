@@ -6,26 +6,17 @@
 
 <p>
   👋&nbsp; Hi there! <br/>
-  I study in the Information System depatment at Hanyang University. <br/>
+  I study in the Information System depatment at Hanyang University.🏫 <br/>
 
   I began my coding career with creating simple Android app. <br/>
   For more function what I need for app, I got interested in servers and databases. <br/>
   Developing a server and designing a database worked better for me. <br/>
   So now I’m <b>Back-end developer</b> using Spring framework. <br/>
 
-  I'm currently intersted in the IT department for Finance. <br/>
+  I'm currently intersted in the IT department for Finance.💵 <br/>
 
-  I like to travel to beautiful places and play soccer. <br/>
-  I wish to have a wide range of experiences. <br/><br/>
-
-
-  
-  I'm <b>full stack developer</b> skilled in API, WEB, and APP.🚀<br/>
-  I have experience 7 years of Android development and 2 years of iOS development.<br/>
-  At present, I have been interested in creating Graph-QL APIs with Quarkus and a web screen with React.<br/>
-  Sometimes I develop cross-platforms mobile app like ReactNative or Flutter. (but prefer native💖)<br/><br/>
-  I enjoy hiking, swimming, dive and surf. ⛰ 🏄<br/>
-  I hope to develop every beautiful things. ✨ <br/><br/>
+  I like to travel to beautiful places and play soccer.✈ ⚽️ <br/>
+  I wish to have a wide range of experiences.✨ <br/><br/>
 </p>
 
 
