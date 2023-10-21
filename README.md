@@ -29,7 +29,6 @@
   <img src="https://img.shields.io/badge/Spring Framework-6db33f?style=flat-square&logo=Spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring%20Boot-6db33f?style=flat-square&logo=Spring%20Boot&logoColor=white"/>
   <img src="https://img.shields.io/badge/JPA-6db33f?style=flat-square"/> 
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/flask-000000?style=flat-square&logo=flask&logoColor=white">
 </p>
