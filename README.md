@@ -36,5 +36,4 @@
   <a href="mailto:miro7923@gmail.com"><img src="https://img.shields.io/badge/-Gmail-critical"><br>
 </p>
 
-[![Sia's github stats](https://github-readme-stats.vercel.app/api?username=miro7923)](https://github.com/miro7923)
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miro7923&layout=compact)](https://github.com/miro7923/github-readme-stats) -->
+[![강둥이's github stats](https://github-readme-stats.vercel.app/api?username=jgpk226)](https://github.com/jgpk226)
