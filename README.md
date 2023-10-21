@@ -8,7 +8,7 @@
   👋&nbsp; Hi there! <br/>
   I study in the Information System depatment at Hanyang University.🏫 <br/>
 
-  I began my coding career with creating simple Android app.📱 <br/>
+  I began my coding career with creating simple Android app. <br/>
   For more function what I need for app, I got interested in servers and databases. <br/>
   Developing a server and designing a database worked better for me. <br/>
   So now I’m <b>Back-end developer</b> using Spring framework.🧑🏻‍💻 <br/>
