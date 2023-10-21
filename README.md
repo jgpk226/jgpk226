@@ -1,4 +1,4 @@
-# Kang JunGyu 😉
+# Kang JunGyu 🃏
 
 
 ### 🤞 Nice way to meet me
