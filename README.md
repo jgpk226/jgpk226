@@ -16,7 +16,7 @@
   I began my coding career with creating simple Android app. <br/>
   For more function what I need for app, I got interested in servers and databases. <br/>
   Developing a server and designing a database worked better for me. <br/>
-  So now I’m <b>Back-end developer</b> skilled in WEB and API.💻 <br/>
+  So, now I’m <b>Back-end developer</b> skilled in WEB and API.💻 <br/>
 
   I'm currently intersted in the IT department for Finance.💵 <br/>
 
