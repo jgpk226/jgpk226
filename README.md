@@ -1,37 +1,34 @@
-<h1 align="center"> JunGyu Kang</h1>
-<h3 align="center"> Hi there 👋</h3>
-
-<h3 align="center"> 💻 Tech Stack 💻</h3>
-<h4 align="center"> Techs that I've used at least once</h4>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=JAVA&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp <br>
-  <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat-square&logo=Amazon EC2&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=flat-square&logo=Amazon RDS&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat-square&logo=Amazon S3&logoColor=white"/></a>&nbsp <br>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=JSON&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Eclipse-IDE-2C2255?style=flat-square&logo=Eclipse-IDE&logoColor=white"/></a>&nbsp <br>
-  <!-- <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/C-Sharp-239120?style=flat-square&logo=C-Sharp&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=Unity&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Visual-Studio-5C2D91?style=flat-square&logo=Visual-Studio&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white"/></a>&nbsp <br> -->
-  <!-- <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/></a>&nbsp <br> -->
-  <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=macOS&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/></a>&nbsp<br><br>
+### 🤞 Nice way to meet me
+<p>
+<!--   <a href="https://blog.cowkite.com/" target="_blank"><img src="https://img.shields.io/badge/Tech_Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a> -->
+<!--   <a href="https://www.linkedin.com/in/cowkite/" target="_blank"><img src="https://img.shields.io/badge/SoyeonKim-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/cowkite" target="_blank"><img src="https://img.shields.io/badge/cowkite-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"/></a> -->
+  <a href="mailto:jgpk226@gmail.com" target="_blank"><img src="https://img.shields.io/badge/jgpk226@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
-<h3 align="center"> 📫 How to reach me: ...</h3>
-<p align="center">
-  <a href="https://jgpk226.github.io/"><img src="https://img.shields.io/badge/-TechBlog-brightgreen">&nbsp
-  <a href="mailto:jgpk2263@gmail.com"><img src="https://img.shields.io/badge/-Gmail-critical"><br>
+<p>
+  👋&nbsp; Hi there! I'm <b>full stack developer</b> skilled in API, WEB, and APP.🚀<br/>
+  I have experience 7 years of Android development and 2 years of iOS development.<br/>
+  At present, I have been interested in creating Graph-QL APIs with Quarkus and a web screen with React.<br/>
+  Sometimes I develop cross-platforms mobile app like ReactNative or Flutter. (but prefer native💖)<br/><br/>
+  I enjoy hiking, swimming, dive and surf. ⛰ 🏄<br/>
+  I hope to develop every beautiful things. ✨ <br/><br/>
+</p>
+
+
+### 💪 Skills
+#### Platforms & Languages
+<p>
+  <img src="https://img.shields.io/badge/Quarkus-4695EB?style=flat-square&logo=Quarkus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
+  <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=flat-square&logo=React&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=iOS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white"/>
 </p>
