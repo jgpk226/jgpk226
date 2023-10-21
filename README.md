@@ -58,7 +58,7 @@
 </p>
 <p>
   <!-- Intellij, Datagrip, Pycharm -->
-  <img src="https://img.shields.io/badge/intellijidea-000000?&style=flat-square&logo=intellijidea%20IDE&logoColor=white"/>
+  <img src="https://img.shields.io/badge/intellijidea-000000?&style=flat-square&logo=int%20IDE&logoColor=white"/>
   <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=flat-square&logo=Eclipse%20IDE&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
