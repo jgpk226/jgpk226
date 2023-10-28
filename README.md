@@ -17,7 +17,7 @@
 
   I'm currently intersted in the IT department for Finance.💵 <br/>
 
-  I like to travel to beautiful places and eating new food.✈ 🍝 <br/>
+  I like to travel to beautiful places and eat new food.✈ 🍝 <br/>
   I wish to have a wide range of experiences.✨ <br/><br/>
 </p>
 
