@@ -7,7 +7,7 @@
 <br/>
 
 <p>
-  👋&nbsp; Hi there! <br/>
+  ## 👋&nbsp; Hi there! <br/>
   I study in the Information System depatment at Hanyang University. 🏫 <br/>
 
   I began my coding career with creating simple Android app. <br/>
