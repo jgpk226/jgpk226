@@ -15,7 +15,7 @@
   Developing a server and designing a database suited me better. <br/>
   So, now I’m <b>Back-end developer</b> skilled in WEB and API. 💻 <br/>
 
-  I'm currently intersted in the IT department for Finance. 💵 <br/>
+  I'm currently intersted in the <b>IT department</b> for Finance. 💵 <br/>
 
   I like to travel to beautiful places and eat new food. ✈ 🍝 <br/>
   I wish to have a wide range of experiences. ✨ <br/><br/>
